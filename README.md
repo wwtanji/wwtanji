@@ -51,12 +51,3 @@ If you love solving real problems through code, we’re already on the same path
 
 </div>
 
----
-
-<div align="center">
-  <h2 style="font-size: 35px;">Let’s Build Something Awesome :)</h2>
-
-Interested in collaborating, building apps, or just nerding out over cool tech?  
-Feel free to reach out — I’m always up for creative ideas and purposeful projects!
-
-</div>
