@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200">
-</div>
-
-<div align="center">
 
 <h1 style="font-family: 'Montserrat', sans-serif; font-size: 48px; color: #0FF0FC; font-weight: bold; text-shadow: 2px 2px 5px #0ff0fcbe;">Roman Zotsenko</h1>
 
