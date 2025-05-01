@@ -34,13 +34,3 @@ If you love solving real problems through code, we’re already on the same path
 [![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 
 </div>
-
----
-
-<div align="center">
-  <h2 style="font-size: 35px;">GitHub Stats</h2>
-
-<img src="https://github-readme-stats.vercel.app/api?username=wwtanji&show_icons=true&theme=algolia&border_radius=20" alt="Roman's GitHub Stats" />
-
-</div>
-
