@@ -4,7 +4,7 @@
 
 **`Full Stack Developer in Progress`**
 
-Hi! I’m Roman — a full stack engineer in the making with a builder’s mindset.  
+Hi! I’m Roman — a student that try to become a full stack engineer with a builder’s mindset.  
 I turn ideas into code using JavaScript, Vue, React, FastAPI, and more.  
 I care deeply about building apps that are not just functional but actually helpful.  
 Every project is a step closer to the dev I aim to be.  
