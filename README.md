@@ -4,19 +4,15 @@
 
 **`Full Stack Developer in Progress`**
 
-Hi! I’m Roman — a student that try to become a full stack engineer with a builder’s mindset.  
+Hi! I’m a student that try to become a full stack engineer with a builder’s mindset.  
 I turn ideas into code using JavaScript, Vue, React, FastAPI, and more.  
-I care deeply about building apps that are not just functional but actually helpful.  
-Every project is a step closer to the dev I aim to be.  
   
-If you love solving real problems through code, we’re already on the same path.
-
 </div>
 
 ---
 
 <div align="center">
-  <h2 style="font-size: 35px;">📖 Languages and Tools</h2>
+  <h2 style="font-size: 35px;">Languages and Tools</h2>
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
