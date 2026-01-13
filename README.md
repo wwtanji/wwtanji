@@ -2,7 +2,6 @@
 
 <h1 style="font-family: 'Montserrat', sans-serif; font-size: 48px; color: #0FF0FC; font-weight: bold; text-shadow: 2px 2px 5px #0ff0fcbe;">Roman Zotsenko</h1>
 
-**`Full Stack Developer in Progress`**
 
 Hi! I’m a student that try to become a full stack engineer with a builder’s mindset.  
 I turn ideas into code using JavaScript, Vue, React, FastAPI, and more.  
