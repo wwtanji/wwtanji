@@ -2,13 +2,12 @@
 
 # Roman Zotsenko
 
-### Full Stack Developer · Frontend-Focused
+### Full Stack Developer · Frontend Focused
 
 Working student passionate about turning ideas into clean, functional products.  
 Currently deepening expertise in modern frontend architecture while staying strong across the full stack.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roman-zotsenko-96881134b/)
 </div>
 
 ---
