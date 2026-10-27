@@ -1,10 +1,11 @@
 <div align="center">
 
 # Roman Zotsenko
-### Full Stack Developer
+### AI Integration & Full Stack Engineer
 
-Working student passionate about turning ideas into clean, functional products.  
-Currently deepening expertise in modern frontend architecture while staying strong across the full stack.
+Building production-ready products where AI is part of the architecture, not an add-on. 
+<br>
+I connect LLMs to real systems: APIs, databases, and user-facing applications, end to end.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roman-zotsenko-96881134b/)
 
